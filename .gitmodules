@@ -1,0 +1,3 @@
+[submodule "src/lar_gazebo"]
+	path = src/lar_gazebo
+	url = git@github.com:lar-deeufba/lar_gazebo.git
